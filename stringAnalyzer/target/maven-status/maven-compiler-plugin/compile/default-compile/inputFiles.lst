@@ -1,0 +1,13 @@
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\controller\StringAnalyzerController.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\dto\InterpretedQuery.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\dto\NaturalLanguageResponse.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\dto\StringListResponse.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\dto\StringProperties.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\dto\StringRequest.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\dto\StringResponse.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\exception\StringAlreadyExistsException.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\model\AnalyzedString.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\service\SpringServiceImpl.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\service\StringAnalyzerService.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\storage\StringStorage.java
+C:\Users\ayoba\Downloads\stringAnalyzer\stringAnalyzer\src\main\java\com\example\stringAnalyzer\StringAnalyzerApplication.java
