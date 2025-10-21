@@ -1,2 +1,2 @@
-# HNG-Stage1-task
+# stringAnalyzer
 HNG Stage 1 Backend Task
